@@ -1,0 +1,27 @@
+.watch_l a.the_hildi {
+  padding: 12px 15px !important;
+  min-width: 115px;
+}
+
+.watch_l sup,
+.top_banner_yand,
+.side_banner_yand {
+  display: none !important;
+}
+
+.videoBlock .v_epi_nav :is(.vncenter, .vnleft_small) {
+  margin-top: 0 !important;
+}
+
+.video_plate_title .jutsu-hbfs-times {
+  display: block;
+  font: normal 12px/1.4 Verdana, sans-serif;
+  text-align: center;
+  overflow-wrap: anywhere;
+  font-variant-numeric: tabular-nums;
+}
+
+.video_plate_title .jutsu-hbfs-times > small {
+  display: block;
+  font: inherit;
+}
